@@ -16,3 +16,8 @@ def assign_rooms(attendees)
   end
 
 end
+
+def assign_rooms(attendees)
+
+
+end
