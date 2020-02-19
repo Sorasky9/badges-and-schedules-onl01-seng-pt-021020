@@ -16,3 +16,10 @@ def assign_rooms(attendees)
       end
 
 end
+
+def assign_rooms(attendees)
+  attendees.unshift("Steve") do |attendees|
+    "Hello #{attendees}! You'll be assigned to room 1!"
+      end
+
+end
