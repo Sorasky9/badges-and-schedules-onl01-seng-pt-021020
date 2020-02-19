@@ -17,3 +17,11 @@ speakers.each_with_index do |name, index|
 end
 new_arr
 end
+
+def printer(attendees)
+  batch_badge_creator(attendees).each do {|badges| puts badges}
+    assign_rooms(attendees).each do {|rooms| puts room} 
+
+
+end
+end
