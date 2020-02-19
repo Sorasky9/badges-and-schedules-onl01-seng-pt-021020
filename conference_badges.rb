@@ -11,7 +11,7 @@ end
 end
 
 def assign_rooms(attendees)
-name.unshift("Steve")
+attendees.unshift("Steve")
  "Hello #{attendees}! You'll be assigned to room 1!"
 
 
