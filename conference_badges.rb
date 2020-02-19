@@ -10,10 +10,7 @@ end
 
 end
 
-def assign_rooms(attendees)
-attendees.unshift("Steve")
- "Hello #{attendees}! You'll be assigned to room 1!"
-
+def assign_rooms(speakers)
 
 
 end
