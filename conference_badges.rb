@@ -12,7 +12,7 @@ end
 
 def assign_rooms(attendees)
 attendees.unshift("Steve")
-return "Hello #{attendees}! You'll be assigned to room 1!"
+ "Hello #{attendees}! You'll be assigned to room 1!"
 
 
 
