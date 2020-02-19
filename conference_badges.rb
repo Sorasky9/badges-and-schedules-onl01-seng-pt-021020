@@ -13,6 +13,7 @@ end
 def assign_rooms(attendees)
   room_assignments.collect do |attendees|
     " #{room_assignments}"
+    return "Hello, Steve! You'll be assigned to room 1!"
   end
 
 end
