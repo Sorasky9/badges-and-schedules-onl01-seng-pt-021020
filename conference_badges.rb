@@ -13,6 +13,6 @@ end
 def assign_rooms(attendees)
   room_assignments.collect do |attendees|
     " #{room_assignments}"
-    return
+    
   end
 end
