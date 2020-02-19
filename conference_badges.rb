@@ -17,7 +17,7 @@ def assign_rooms(attendees)
 
 end
 
-def assign_rooms(Steve)
+def assign_rooms(steve)
   return "Hello, Steve! You'll be assigned to room 1!"
 
 end
