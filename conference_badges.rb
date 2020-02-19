@@ -14,7 +14,7 @@ def assign_rooms(attendees)
 attendees.unshift("Steve")
   room_assignments.each_with_index do |attendees|
 "Hello #{attendees}! You'll be assigned to room 1!"
-    " #{room_assignments}"
+    
       end
 
 end
